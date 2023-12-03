@@ -1,0 +1,127 @@
+
+{
+  "albums": [
+    {
+      "id": 1,
+      "name": "Cristo Redentor",
+      "description": "Principal ponto turístico do Brasil, uma estátua que retrata Jesus Cristo, localizada no topo do morro do Corcovado a 709 metros acima do nível do mar, com vista para parte considerável da cidade brasileira do Rio de Janeiro",
+      "cover": "https://lh3.googleusercontent.com/pw/ADCreHcGLSaS00WRCiUMGBrFp5gQmelLNNCxU--pnX7duTeEIZvvUDFz0g3joU6_qmwvGrXntKXw6Xn7QBeq8j67QrZL5aAotMgkdMw29bWPhEE2GGbpiOwc9BX2zcWeolrk79IQG1K-TA5cysWfSvpvsVsy=w1600-h610-s-no-gm?authuser=0",
+      "location_name": "Rio de Janeiro - RJ",
+      "location_coordinates": [
+        -43.21041661559262, -22.950638669343714
+      ],
+      "date": "1975-09-15"
+    },
+    {
+      "id": 2,
+      "name": "Cataratas do Iguaçu",
+      "description": "Um lindo conjunto de cerca de 275 quedas de água no rio Iguaçu. Localizada entre o Parque Nacional do Iguaçu, Paraná, no Brasil, e o Parque Nacional Iguazú em Misiones, na Argentina, na fronteira entre os dois países",
+      "cover": "https://lh3.googleusercontent.com/pw/ADCreHc05X0mgt7UK1GXDSL--RYELQCAImBE8HhdxC2CojtDYb7lNPWYH2hC-xgntG0h8qaWpTWePqgP31Ap327Xj1HV3Hg34x46puq1k0OEeR5nejMlD26w3pKHQdp_X873hCXjfMlW_5S-8aAGVm5e79RR=w840-h320-s-no-gm?authuser=0",
+      "location_name": "Foz do Iguaçu - PR",
+      "location_coordinates": [
+        -54.44113986101695, -25.690210284781124
+      ],
+      "date": "1987-03-09"
+    },
+    {
+      "id": 3,
+      "name": "Baía do Sancho",
+      "description": "Baía de águas claras localizada a oeste do Morro Dois Irmãos e a leste da Baía dos Golfinhos, no arquipélago de Fernando de Noronha. É uma paisagem incrível, considerada por muitos uma das praias mais lindas do mundo",
+      "cover": "https://lh3.googleusercontent.com/pw/ADCreHe2UAj7uFvxnSwil_RDWFHzQTV9LHfOfF-GpxNFjhpeMSr9F7rhwuNcEfzL5Es1tWKeDbhv-t5KyaJWgHlZBuD7LFn2xeRFW81dzXIWvl6khYItY-qgUc2UzYt2Eq6VAJXls1ks6Pgqn2WnxrLN2Va0=w1100-h400-s-no-gm",
+      "location_name": "Fernando de Noronha - PE",
+      "location_coordinates": [
+        -32.443661693375994, -3.854575298613273 
+      ],
+      "date": "1975-09-15"
+    },
+    {
+      "id": 4,
+      "name": "Lago de Furnas",
+      "description": "Muito conhecido como “mar de minas” e a grandiosidade de suas águas, com 1440 km² de área, faz mesmo dele um lugar espetacular. Cercado por uma linda paisagem formada por cachoeiras e cânions que dão ainda mais beleza ao lugar.",
+      "cover": "https://lh3.googleusercontent.com/pw/ADCreHfbl5WT7kiyGu15UpI8zs9hI_wyLo3qXqQ4yWoF0k5MFVDFDVP7mV1itRoSbrvBEzJ8UmxVkOLG_FexHT_rfO_X15K7AwYLHhmbGI4iV_K3S4aoJpvRstmNJLc_THj5iT0qooB2aj6KrTfZ8aFxLKTN=w840-h320-s-no-gm?authuser=0",
+      "location_name": "Capitólio - MG",
+      "location_coordinates": [
+        -46.158407190874236, -20.703855284614896 
+      ],
+      "date": "1975-09-15" 
+    },
+    {
+      "id": 5,
+      "name": "Jardim Botânico",
+      "description": "O Jardim Botânico de Curitiba é um dos maiores cartões postais da cidade. Possui uma área de 245 mil m² com diversas paisagens floridas, cantos para piqueniques e uma linda paisagem para fotos",
+      "cover": "https://lh3.googleusercontent.com/pw/ADCreHeqpPRO4rFbwunDnq1Ksc6PmwDf_IzUpMqHhwzZTbkTSy5mlgzHQ1QYLI9G5CUd4Bjt3NmUHjzWVHycJ16_BZ2gbfgpp-qHQ8qxrIGmIM_pmyMMt0IluLm5MqHRXQgjVzgr-ehciDECWV3SdWXgj2f0=w840-h320-s-no-gm?authuser=0",
+      "location_name": "Curitiba - PR",
+      "location_coordinates": [
+        -49.24744640625152, -25.440531267006428
+      ],
+      "date": "1975-09-15"
+    },
+    {
+      "id": 6,
+      "name": "Lençóis Maranhenses",
+      "description": "Uma vasta paisagem desértica de grandes dunas de areia branca e pelas lagoas sazonais de água da chuva. O ecossistema diversificado do parque inclui pântanos de mangais.",
+      "cover": "https://lh3.googleusercontent.com/pw/ADCreHf1Z3mzouzR3dKi5kI-1fHpJpYSCIl4YWZfqMCjnuln7DzYnK06MkqzC59QWCyS-o341HUWP4mtPYkmQQG0lI-x2CbkUH_ss59YE_vwkhN34vcDxe2eY799-bHqT-6bml3tIBflbs4jznOOVKeQnb03=w840-h320-s-no-gm?authuser=0",
+      "location_name": "Barreirinhas - MA",
+      "location_coordinates": [
+        -43.12839627564406, -2.4857616382889214
+      ],
+      "date": "1987-03-09"
+    },
+    {
+      "id": 7,
+      "name": "Porto de Galinhas",
+      "description": "Um distrito localizado a cerca de 60 km de Recife. Um dos melhores destinos de praia do Brasil. Caracterizadas pelas águas verdes e pelas entre piscinas naturais, com uma beleza única.",
+      "cover": "https://lh3.googleusercontent.com/pw/ADCreHceQVwMQyP2azSzgC8J0EczXaDAg2JCqtdLWoAl5VZR1Nvq7-HR31zuHyJVq7m2ed2Ts4x7nGv53ghZbAVKxZQRLSyNH9bgM-u-daPEGaDELZd2inMTdrK8tUIiQcjCYW-iFGf7c1uVoPtEFGLAK8xo=w840-h320-s-no-gm?authuser=0",
+      "location_name": "Ipojuca - PE",
+      "location_coordinates": [
+        -35.00218729976166, -8.4916435201643
+      ],
+      "date": "1975-09-15"
+    },
+    {
+      "id": 8,
+      "name": "Lagoa da Pampulha",
+      "description": "Um amplo lago artificial. Às margens dele, encontram-se o Museu de Arte da Pampulha, que abriga obras de arte brasileira, a Capela Curial da Igreja de São Francisco de Assis e a Casa do Baile",
+      "cover": "https://lh3.googleusercontent.com/pw/ADCreHc1FEiCESB867cBZU8HSrhdf6zSyGfy9RTZ-s0A000XeN7JagoUF2vVP8tACq1DMPdlU7ptraZqsPN_FpnZ3_pOZnNjwiKT6duWKNQlZL-A3Y96tmiFd3Vm_gb0n1gApTFq_dgXuEbIomLX8NQp8vfG=w840-h324-s-no-gm?authuser=0",
+      "location_name": "Belo Horizonte - MG",
+      "location_coordinates": [
+        -43.96836291767477, -19.845739288098887 
+      ],
+      "date": "1975-09-15"
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHf07sigPWlIEivBS3VtY_7bc6X6B8e-H2S-_FSR294l8lozoUuwn6ghvetHc7t-TQbVo4NUO9xdDAk2XR9ygHAx_Qq86QocakAX1WKre0dJEK0pxQG9YYg3PN6O1EdG2w2CYHl2MeDJzO_gqWRNy8P0=w1280-h720-s-no-gm?authuser=0",
+      "description": "Foto 1 Cristo",
+      "albumId": 1
+    },
+    {
+      "id": 2,
+      "image": "https://lh3.googleusercontent.com/pw/ADCreHeEzMjNUHDwToFu1b9yi9IYkMQLUvle1GLYTJJj2RzPeWO-jqdgZy0Xs5mmNskdjbJ6k0X90kUUJhpA98avKGcfe2fR4IH68Pj2s3Lvqc7BM3LmEe9br2myXXg4N2gMXGAHDzGzJNnVZgRXq8Ob_uom=w1124-h749-s-no-gm?authuser=0",
+      "description": "Foto 2 Cristo",
+      "albumId": 1
+    },
+    {
+      "id": 3,
+      "image": "https://photos.google.com/share/AF1QipOkBxtnAnMLupF0qM1VkJdYVhA8KXkWKreQ5HObSSxw6Tzd99Y_q_AfxI-IkScQJw/photo/AF1QipMbQ1ZezaErD-cnucwhxBRSJwIaRuoucw1sjimH?key=elhCN1VIX29QbkZzNlhOMF9NV0pEUHM3YnhnRl9B",
+      "description": "Foto 3 Cristo",
+      "albumId": 1
+    }
+  ],
+  "highlights": [
+    {
+      "albumId": 1,
+      "id": 1
+    },
+    {
+      "albumId": 2,
+      "id": 2
+    },
+    {
+      "albumId": 3,
+      "id": 3
+    }
+  ]
+}
